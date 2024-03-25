@@ -1,4 +1,3 @@
-# Added by Josiah.
 # Converts farenheit to celcius
 import os
 import pygubu
