@@ -10,7 +10,6 @@ PROJECT_UI = os.path.join(PROJECT_PATH, "english_to_spanish.ui")
 class EnglishToSpanishApp:
 
     # A simple translator app that will translate English to Spanish.
-    # Written by Liam Meredith
 
     def __init__(self, master):
 
